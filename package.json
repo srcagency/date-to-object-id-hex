@@ -1,0 +1,14 @@
+{
+	"name": "date-to-object-id-hex",
+	"description": "Create a MongoDB ObjectId hex string from a date",
+	"version": "1.0.0",
+	"repository": "srcagency/date-to-object-id",
+	"scripts": {
+		"test": "node test"
+	},
+	"devDependencies": {
+		"date-from-object-id": "^0.0.5",
+		"tape": "^4.6.3"
+	},
+	"license": "MIT"
+}
