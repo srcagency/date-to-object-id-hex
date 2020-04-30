@@ -8,7 +8,7 @@
 	},
 	"devDependencies": {
 		"date-from-object-id": "^0.0.5",
-		"tape": "^4.6.3"
+		"tape": "^5.0.0"
 	},
 	"license": "MIT"
 }
