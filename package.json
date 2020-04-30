@@ -2,6 +2,7 @@
 	"name": "date-to-object-id-hex",
 	"description": "Create a MongoDB ObjectId hex string from a date",
 	"version": "1.0.0",
+	"bin": "./cli.js",
 	"repository": "srcagency/date-to-object-id",
 	"scripts": {
 		"test": "node test"
